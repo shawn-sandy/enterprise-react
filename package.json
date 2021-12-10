@@ -1,0 +1,19 @@
+{
+  "name": "@shawnsandy/enterprise-react",
+  "version": "0.0.1",
+  "description": "Erterprise React Resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "enterprise",
+    "enterprise-react"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
